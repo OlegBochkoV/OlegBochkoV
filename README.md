@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning Flutter framework
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - telegram: @Oleg_4297
 
 <!---
 OlegBochkoV/OlegBochkoV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
